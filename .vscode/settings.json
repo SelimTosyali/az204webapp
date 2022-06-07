@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b905dbb6-8bfa-4b65-b092-c94bf260630e/microsoft.web/sites/subscriptions/b905dbb6-8bfa-4b65-b092-c94bf260630e/resourceGroups/06.06.2022/providers/Microsoft.Web/sites/seliimtosyalii-web-app",
+    "appService.deploySubpath": "."
+}
